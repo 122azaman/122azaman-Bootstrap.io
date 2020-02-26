@@ -1,0 +1,14 @@
+div div {
+    background-color: black;
+  }
+body {
+  color: white;
+}
+img {
+  height: 100px;
+  width: 275px;
+}
+.icon {
+  height: 10px;
+  width: 10px;
+}
