@@ -55,3 +55,6 @@ td {
   height: 240px;
   width: 260px;
 }
+a:link {
+  color: black;
+}
